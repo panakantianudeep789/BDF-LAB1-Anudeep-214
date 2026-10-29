@@ -13,7 +13,7 @@
 
 ## Live Link
 
-> Not deployed yet — browser screenshots of every endpoint are provided in the `screenshots/` folder below.
+**Deployed link:** https://bdf-lab-1-anudeep-214.vercel.app/
 
 ---
 
