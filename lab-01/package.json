@@ -1,0 +1,20 @@
+{
+  "name": "lab-01-express-server",
+  "version": "1.0.0",
+  "description": "Lab 1 – Node.js and Express server for Backend Development Fundamentals",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node index.js"
+  },
+  "keywords": [
+    "nodejs",
+    "express",
+    "lab"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^5.3.0"
+  }
+}
