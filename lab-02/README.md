@@ -1,7 +1,7 @@
 # Lab 2: SQLite Database and CRUD Routes
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
-**Faculty:** Joel Prashanth D
+**Faculty:** Chintakrindi Sai Siva Teja
 
 ---
 
