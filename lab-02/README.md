@@ -13,7 +13,7 @@
 
 ## Live Link
 
-> Not deployed yet — Postman screenshots of every endpoint are provided in the `screenshots/` folder below.
+>**Deployed Link:** https://bdf-lab-1-anudeep-214-8o4t.vercel.app/
 
 ---
 
