@@ -1,47 +1,28 @@
-# BDF-LAB1-Anudeep-214
+# Backend Development Fundamentals (BDF)
 
 **Course:** Backend Development Fundamentals · Year II Term II · Aurora  
-**Faculty:** Joel Prashanth D
-
----
-
-**Name:** Anudeep panakanti  
+**Faculty:** Joel Prashanth D  
+**Student:** Anudeep panakanti  
 **Registration Number:** 214  
-**Section:** 214 CSE-2D
+**Section:** 214 CSE-2D  
 
 ---
 
-## Repository Structure
+## 📚 Labs Overview
 
-This repository contains all lab submissions for the Backend Development Fundamentals course.  
-Each lab is in its own folder with its own README and source code.
-
-| Lab | Title | Folder |
-|-----|-------|--------|
-| Lab 1 | Node.js and Express Server | [lab-01/](lab-01/) |
+| Lab | Title | Folder | Description |
+|-----|-------|--------|-------------|
+| **Lab 1** | Node.js and Express Server | [lab-01/](lab-01/) | Fundamentals of HTTP module & Express.js with basic routing |
+| **Lab 2** | SQLite Database & CRUD Routes | [lab-02/](lab-02/) | Relational database connection with SQLite and complete CRUD operations |
 
 ---
 
-## Lab 1 – Quick Links
-
-- 📁 [Source Code](lab-01/index.js)
-- 📖 [Lab README](lab-01/README.md)
-- 🖼️ [Screenshots](lab-01/screenshots/)
-
-### Endpoints
-
-| Method | Path | Description | Status |
-|--------|------|-------------|--------|
-| GET | `/` | Welcome message | 200 |
-| GET | `/about` | Student name & section JSON | 200 |
-| GET | `/time` | Current date & time JSON | 200 |
-| `*` | any other | 404 error JSON | 404 |
-
-### How to Run Lab 1
+## 🚀 Lab 2: Quick Start
 
 ```bash
-cd lab-01
+cd lab-02
 npm install
-npm start
-# Server runs at http://localhost:3000
+npm run dev
 ```
+The server runs on `http://localhost:3000` and creates `books.db` automatically with 10 seed books.
+See [lab-02/README.md](lab-02/README.md) for full details, endpoints, and viva answers.
